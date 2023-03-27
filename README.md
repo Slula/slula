@@ -13,7 +13,7 @@
 
 ## Hackathons/Game Jams 
 - 🥇 1st place in the March 2023 Liquality Virtual Hackathon for [Liquality Unity WebGL](https://github.com/Slula/Liquality-Unity-WebGL-Template) 
-- 🥈 New Things On Canto award in the Canto Online Hackathon Season 5 for [Cyberspace.computer](https://cyberspace.computer) 
+- 🏅 New Things On Canto award in the Canto Online Hackathon Season 5 for [Cyberspace.computer](https://cyberspace.computer) 
 
 <br/>  
 
@@ -39,7 +39,8 @@
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://docs.soliditylang.org/en/latest/index.html" target="_blank"><img style="margin: 10px" src="https://docs.soliditylang.org/en/latest/_static/logo.svg" alt="Solidity" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
